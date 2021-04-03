@@ -1,0 +1,12 @@
+[Desktop Entry]
+# VERSION=3.36.2
+Name=Brightness
+Comment=Adjust display brightness
+Keywords=brightness;display;
+Exec=/home/p/Tools/ddccontrol-gui/gui.py
+Icon=/usr/share/icons/Humanity/apps/48/gnome-display-properties.svg
+Type=Application
+Categories=System;
+StartupNotify=true
+X-GNOME-SingleWindow=false
+
